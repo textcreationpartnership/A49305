@@ -1,0 +1,461 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An appeal to the conscience of a fanatick shewing that the King of England, by the fundamental laws of it, is as absolute and independent a monarch as any of the kings mentioned in Scripture, and consequently, as free as any of them from any humane coactive power to punish, censure, or dethrone him : whereunto is added, a short view of the laws both foreign and domestick, against seditious conventicles / by a barrister at law.</title>
+            <author>Lane, Bartholomew.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49305</idno>
+            <idno type="STC">Wing L328</idno>
+            <idno type="STC">ESTC R10926</idno>
+            <idno type="EEBO-CITATION">12928729</idno>
+            <idno type="OCLC">ocm 12928729</idno>
+            <idno type="VID">95594</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49305)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95594)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 387:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An appeal to the conscience of a fanatick shewing that the King of England, by the fundamental laws of it, is as absolute and independent a monarch as any of the kings mentioned in Scripture, and consequently, as free as any of them from any humane coactive power to punish, censure, or dethrone him : whereunto is added, a short view of the laws both foreign and domestick, against seditious conventicles / by a barrister at law.</title>
+                  <author>Lane, Bartholomew.</author>
+               </titleStmt>
+               <extent>[2], 28, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.G. for John Walthoe ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1684.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Lane Bartholomew. Cf. BM.</note>
+                  <note>Advertisement on p. [1] at end.</note>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Monarchy --  Great Britain.</term>
+               <term>Prerogative, Royal.</term>
+               <term>Divine right of kings.</term>
+               <term>Assembly, Right of --  Law and legislation --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95594:1"/>
+            <p>AN APPEAL TO THE CONSCIENCE OF A FANATICK: SHEWING, That the KING of <hi>ENGLAND,</hi> by the Fundamental Laws of it, is as abſolute and In<g ref="char:EOLhyphen"/>dependent a Monarch, as any of the Kings men<g ref="char:EOLhyphen"/>tioned in Scripture; and conſequently as free as any of them, from any Humane, Co<g ref="char:EOLhyphen"/>active Power, to Puniſh, Cenſure, or Dethrone him.</p>
+            <p>Whereunto is added, A Short view of the Laws both Foreign and Dome<g ref="char:EOLhyphen"/>ſtick, againſt Seditious Conventicles.</p>
+            <p>By a Barriſter at Law.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. G.</hi> for <hi>John Walthoe,</hi> at the <hi>Black-Lyon</hi> in <hi>Chancery-Lane,</hi> overagainſt <hi>Lincolns-Inn,</hi> 1684.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:95594:2"/>
+            <pb n="1" facs="tcp:95594:2" rendition="simple:additions"/>
+            <head>AN APPEAL TO THE CONSCIENCE OF A Fanatick, &amp;c.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>YOurs I have received, wherein you are pleaſed to ſignify, that you have ſhown the ſeveral Tracts which have been lately written, and expoſed to publick View, in defence of the Doctrine of Non-reſiſtance, to ſome of your Neighbors, who are much inclined to Fanaticiſm, and they ſay, upon per<g ref="char:EOLhyphen"/>uſal of them, that though they ſhould grant to our Church-men what they have endeavoured to prove out of Scripture, <hi>Viz. The unlawfullneſs of Subjects taking up Arms againſt their Sovereign in what Caſe ſoever,</hi> yet
+<pb n="2" facs="tcp:95594:3"/>they fancy, that the King of <hi>England</hi> is not ſuch a King as the Scriptures mention. It is (ſay you) an Eva<g ref="char:EOLhyphen"/>ſion they much boaſt of, whenſoever they read any pieces of this nature: <hi>What is all this to us, who Live not under ſuch a King as the Holy Scriptures makes men<g ref="char:EOLhyphen"/>tion of</hi> Well, <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ing that this Evaſion is the <hi>Diana</hi> they ſo much vaunt or, I am reſolved, out of the Zeal and Love I bear my King and Country, and for the prevention of another Rebellion, (having been ſuffi<g ref="char:EOLhyphen"/>ciently ſenſible of the dire and calamitous Effects of the former) to ſet forth the excellent and ſweet a<g ref="char:EOLhyphen"/>greement, which the Municipal Laws of this Realm have with the Laws of God in this particular, affir<g ref="char:EOLhyphen"/>ming, <hi>That the King of</hi> England <hi>is ſuch a King as the Scriptures mention,</hi> and that in a fourfold Reſpect.</p>
+            <list>
+               <head>In Reſpect</head>
+               <item>1. <hi>Of his Right to the Crown.</hi>
+               </item>
+               <item>2. <hi>Of his Authority and Power.</hi>
+               </item>
+               <item>3. <hi>Of his Charge, and Duty.</hi>
+               </item>
+               <item>4. <hi>Of the Rendring of his Account.</hi>
+               </item>
+            </list>
+            <p n="1">1ſt. <hi>The King of</hi> England<hi>'s Right to the Crown is by Birth, Deſcent, or Hereditary Succeſſion.</hi> And this ſhall be apparanted in theſe four particularities.</p>
+            <p>
+               <hi>Firſt,</hi> By that part of the Oath of Allegiance which is uſed in every Leet, <hi>You ſhall ſwear, that from this day forward,</hi>
+               <note place="margin">Co. <hi>Lib. 7.</hi> Calvin's Caſe.</note> 
+               <hi>you ſhall be true and faithful to our Sovereign Lord King</hi> Charles <hi>and his Heirs,</hi> which demonſtrates the Deſcent. And by the by, I preſume it will not be amiſs to preſent to our <hi>Fanaticks</hi> the whole ſcope and aim of this <hi>Oath</hi> of <hi>Allegiance,</hi> as it is expreſſed in the Laws and Conſtitutions of our King <hi>William</hi> the Firſt.</p>
+            <p>
+               <hi>Statuimus ut omnes Liberi Homines faedere &amp; Sacra<g ref="char:EOLhyphen"/>mento
+<pb n="3" facs="tcp:95594:3"/>affirment, quod intra, &amp; extra univerſum Regnum Angliae (quod olim vocabatur Regnum</hi> Britanniae) <hi>Willi<g ref="char:EOLhyphen"/>elmo Regi Domino ſuo fideles eſſe volunt Terras &amp; Hono<g ref="char:EOLhyphen"/>res illius omni fidelitate ubique ſervare cum eo, &amp; contra inimicos &amp; alienigenas defendere.</hi> Lex 52. <hi>De fide &amp; obſequio erga Regem.</hi> Add hereto another Conſtitution of the Conqueror, whereby all ſubjects are commanded, <hi>ut Jura Regia illaeſa ſervare pro viribus Conentur.</hi>
+            </p>
+            <p>
+               <hi>Statuimus etiam, &amp; firmiter praecipimus, ut omnes Liberi homines totius Regni noſtri praedicti, ſint fratres Conjurati ad Monarchiam noſtram &amp; ad Regnum No<g ref="char:EOLhyphen"/>ſtrum pro viribus ſuis, &amp; facultatibus contra ini<g ref="char:EOLhyphen"/>micos pro poſſe ſuo defendendum, &amp; viriliter ſervan<g ref="char:EOLhyphen"/>dum, &amp; Pacem &amp; dignitatem Coronae noſtrae integram obſervandam.</hi> Lex 59. Both which Laws, and many others enacted and granted by the Conqueror, were obſerved and kept in the Reign of King <hi>Edward</hi> the Confeſſor.</p>
+            <p>
+               <hi>Secondly,</hi> For that we do our Ligeance to the King in his natural Capacity, that is, as he is <hi>Charles,</hi> the Son and Heir apparent of King <hi>Charles</hi> the <hi>Glorious and Royal Martyr.</hi> For Ligeance, or Homage cannot be done to the King in his Politick capacity,<note place="margin">Coke <hi>Lib. 7.</hi> Calvin's Caſe.</note> for ſo the Body of the King is inviſible. If this be true Law, as it is, what ſhall we judge then of the new Coined diſtinction, to make a difference betwixt the King and his Autho<g ref="char:EOLhyphen"/>rity? betwixt his Perſonal Will, and his Royal and Authoritative Will? to purſue the late Kings Perſon with a Cannon-Bullet at <hi>Edge-hill,</hi> and to preſerve his Authority at <hi>London</hi> or elſewhere? I am ſure 'tis Evi<g ref="char:EOLhyphen"/>dent by the 25. <hi>E.</hi> 3. <hi>C.</hi> 2. <hi>De proditionibus,</hi> that it is High-Treaſon to compaſſe the Kings Death, by which muſt be meant to endeavour his Perſonal ruine; be<g ref="char:EOLhyphen"/>cauſe
+<pb n="4" facs="tcp:95594:4"/>the Regal Authority never dies in <hi>England.</hi> Oh <hi>Fanaticks!</hi> take heed then for the future of New<g ref="char:EOLhyphen"/>coined diſtinctions; take heed of the cunning Wiles and Sleights of the <hi>Jeſuits:</hi> There is no Wickedneſs but hath ſome excuſe.</p>
+            <p>In that great Inſurrection, in <hi>Richard</hi> the Seconds time, the Commons had a fair pretence. <hi>Their In<g ref="char:EOLhyphen"/>tent was</hi> (as they ſaid) <hi>to abolliſh the Law of Vellei<g ref="char:EOLhyphen"/>nage and Servitude, and to ſlay the Corrupt Judges.</hi> And they took an Oath, forſooth, to be true to the King and Commons, and that they would take nothing but what they paid for; and they puniſhed all Theft with death: yet in the Parliament of 5. <hi>R.</hi> 2. <hi>N.</hi> 3, and 32. They were adjudged Traytors.</p>
+            <p>The Earls of <hi>Northumberland</hi> and <hi>Weſtmerland,</hi> in the Reign of Queen <hi>Elizabeth;</hi> could <hi>in the Queens: Name command the Country to follow them in Arms: ſome<g ref="char:EOLhyphen"/>times pretending the ſafety of Her Majeſties Perſon; in dan<g ref="char:EOLhyphen"/>ger</hi> (they ſaid) <hi>by Treaſons in working; And ſometimes in caſe of Conſcience, for reſtoring their former Religion. And in this Zeal they haſted to</hi> Durrham Minſter, <hi>where they tare the Bible (and Communion Book, and ſuch other things as there were,</hi> ſaith Stow) <hi>in great Contempt.</hi> Yet theſe were mere Rebels and Traytors. Speed <hi>Lib.</hi> 9. <hi>Cap.</hi> 24.</p>
+            <p>Wherefore examine, ſearch diligently into the Cauſe, every thing is not as it ſeems: <hi>All is not Gold that Gliſters:</hi> I beſeech you to look before you leap into Rebellion, that Sin of <hi>Witch-craft.</hi>
+            </p>
+            <p>Thirdly, It is expreſly affirm'd in the Caſe of <hi>Calvin, That the King holds the Kingdom of</hi> England <hi>by Birth-Right Inherent by Deſcent from the Blood-Royal;</hi>
+               <note place="margin">Co. <hi>Lib. 7,</hi> Calvin's Caſes.</note> where<g ref="char:EOLhyphen"/>upon Succeſſion doth attend, and therefore it is uſually
+<pb n="5" facs="tcp:95594:4"/>ſaid, <hi>To the King, his Heirs and Succeſſors;</hi> wherein Heirs is firſt named, and Succeſſors attendant upon Heirs; but the Title is by Deſcent. By Queen <hi>Elizabeth's</hi> Death the Crown and Kingdom of <hi>England</hi> deſcended to King <hi>James,</hi> and from him to King <hi>Charles</hi> the Firſt, and from him to the King that now is, and they were fully and abſolutely thereby Kings, without any eſſential Ceremony or Act to be done, <hi>Ex poſt facto.</hi>
+            </p>
+            <p>And by the way, how inſeparable this Right of deſcent is from the next in Blood, you may ſee in <hi>H.</hi> 4. who though he was alſo of the Blood-Royal, and had the Crown reſigned unto him from <hi>R.</hi> 2. and confirmed by Act of Parliament; yet upon his Death-Bed he acknow<g ref="char:EOLhyphen"/>ledged he had no right thereunto, as <hi>Speed</hi> tells us, <hi>Lib.</hi> 9. <hi>C<g ref="char:punc">▪</g>
+               </hi> 14. Add to this acknowledgment the words of <hi>Sir Edward Coke; The Dignity Royal</hi> (ſaies he,)<note place="margin">
+                  <hi>Co.</hi> Lib. 12. <hi>F.</hi> 28.</note> 
+               <hi>is an Inherent inſeparable to the Royal Blood of the King, and deſcendable to the next of Blood of the King, and can<g ref="char:EOLhyphen"/>not be transferred to another.</hi>
+            </p>
+            <p>
+               <hi>Laſtly,</hi> By all the Judges 1. <hi>Jacobi,</hi> at the Arraign<g ref="char:EOLhyphen"/>ment of <hi>Watſon</hi> and <hi>Clerk,</hi> Two <hi>Seminary</hi> Prieſts, it was reſolved, <hi>That immediately by deſcent His Majeſty was compleatly and abſolutely King, without the Ceremony of Coronation, which was but a Royal Ornament, and ex<g ref="char:EOLhyphen"/>ternal Solemnization of the Deſcent.</hi> This is plainly il<g ref="char:EOLhyphen"/>luſtrated by ſeveral precedents taken out of our Hiſto<g ref="char:EOLhyphen"/>ries.</p>
+            <p>King <hi>H.</hi> 6. was not Crowned till the 9th year of his Reign;<note place="margin">
+                  <hi>Speed.</hi> lib. 9. c. 16.</note> yet divers were attainted of Treaſon before that time, which could not have been, had he not been King.</p>
+            <p>So Queen <hi>Mary</hi> Reigned Three Months before ſhe was Crowned; in which ſpace the Duke of <hi>Northum<g ref="char:EOLhyphen"/>berland</hi>
+               <pb n="6" facs="tcp:95594:5"/>and others were Condemned and Executed for Treaſon, which they had committed before ſhe was proclaimed Queen.</p>
+            <p>So King <hi>Edward</hi> 1. was in <hi>Paleſtina</hi> when his Father died, and in his abſence, the Nobility and Prelates of the Realm aſſembled at <hi>London,</hi> and did acknowledge him for their King. In his return homeward he did Homage to the <hi>French</hi> King, for the Lands which he held of him in <hi>France:</hi> He alſo repreſſed certain Re<g ref="char:EOLhyphen"/>bels of <hi>Gaſcoin,</hi> amongſt whom <hi>Gaſco</hi> of <hi>Bierne</hi> Ap<g ref="char:EOLhyphen"/>pealed to the Court of the <hi>French</hi> King, where our King <hi>Edward</hi> had Judgement, That <hi>Gaſco</hi> had perpe<g ref="char:EOLhyphen"/>trated Treaſon, and thereupon he was delivered to the pleaſure of King <hi>Edward. Walſingham</hi> in <hi>Edw.</hi> 1. And all this happened before his Coronation, which was a Year and Nine Months after he began to Reign.</p>
+            <p>Beſides, we know, that ſo ſoon as the King depart<g ref="char:EOLhyphen"/>eth out of this Life, His Succeſſor is forthwith pro<g ref="char:EOLhyphen"/>claimed; all Writs go forthwith in his name; all Courts of Juſtice exerciſed, and all Offices are held by his Royal Authority; all States, all Perſons are o<g ref="char:EOLhyphen"/>bliged to bear him Allegiance: Which things plainly demonſtrate, that the King hath his Kingdom by de<g ref="char:EOLhyphen"/>ſcent, and ſtays not to be made King by the People at his Coronation. Indeed the people are at that time asked their Conſent; not that they have power to de<g ref="char:EOLhyphen"/>ny, but that the King having their Conſent, may with greater Security and Confidence rely on his people. <hi>Fides veſtra &amp; Conftantia</hi> (ſays King <hi>Alexander</hi>) <hi>ut Regem me eſſe Credam,</hi>
+               <note place="margin">
+                  <hi>Curtius,</hi> lib. 5.</note> 
+               <hi>facit. Ferrum tuetur Principem, melius fides.</hi> Seneca.</p>
+            <p>Thus you ſee, That <hi>the King of</hi> England<hi>'s Right to his Emperial Crown is by Birth, Deſcent, or Hereditary Succeſſion.</hi>
+            </p>
+            <p>
+               <pb n="7" facs="tcp:95594:5"/>As to the Second Reſpect, it is evident<g ref="char:punc">▪</g> 
+               <hi>That the Power of the King of</hi> England, <hi>is by the Fundamental Laws of the Land as Great and Royal, as that which our Divines have proved out of the Scriptures to belong unto the Kings of</hi> Juda <hi>and</hi> Iſrael. For,</p>
+            <p n="1">1. He has veſted in his Royal perſon the power of making Laws,<note place="margin">The Royal Power ſet f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rth in Scripture; By it War pro<g ref="char:EOLhyphen"/>claimed, 2 <hi>Chr.</hi> 13.4 By it Peace conclu<g ref="char:EOLhyphen"/>ded, 1 <hi>Kings</hi> 15.19. By it the people aſ<g ref="char:EOLhyphen"/>ſembled and diſmiſſed, <hi>Jo<g ref="char:EOLhyphen"/>ſhua</hi> 24.1. and 28. 1 <hi>Kings</hi> 8.1, and 66. By it a Law is made; By a Law repealed. 1 <hi>Sam.</hi> 14.24, 34. By it Of<g ref="char:EOLhyphen"/>fenders are par<g ref="char:EOLhyphen"/>doned, 2 <hi>Sam.</hi> 14.21. By it all Officers are choſen, as well Eccleſiaſtical as Civil, 1 <hi>Chr.</hi> 26.32. <hi>Gen.</hi> 41.33, 34, 41. <hi>Exod.</hi> 18.25, 26. 2 <hi>Sam.</hi> 23.23. 1 <hi>Kings</hi> 4.3, to 20. 2 <hi>Chron.</hi> 17.7, 8. <hi>Nehemiah</hi> 5.14, 15. <hi>Heſter</hi> 3.1<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. <hi>Dan.</hi> 2.43, &amp; 49. By it all Arms and Fortifications are diſpoſed, 2 <hi>Sam,</hi> 8.14. 1 <hi>Kings</hi> 9.15, 17, 18, 19<g ref="char:punc">▪</g> and <hi>Chap.</hi> 26.9, to 16. <hi>Nehem.</hi> 7.1, 2, 3.</note> the Authority Legiſlative being a pecu<g ref="char:EOLhyphen"/>liar and incommunicable priviledge of the Supreme Power; ſo that the Office of the Two Houſes of Par<g ref="char:EOLhyphen"/>liament in this affair is only Conſultive, or Preparative; but the Character of the Power reſts in the final San<g ref="char:EOLhyphen"/>ction, which is in the K<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g of <hi>England.</hi>
+            </p>
+            <p n="2">2. To him belongs the power o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Life and Death; He hath the Sword of Juſtice to puniſh them that tranſgreſs his Laws, and endeavour to cauſe Sedition; 'Tis he that can remit the ſeverities of the Penal Laws, by pardoning both the ſmaller Breaches of them, and more Capital Offences, which he might moſt juſtly puniſh. <hi>Bracton,</hi> Lib. 1. c. 9. N. 3. Lib. 3. c. 8. N. 4. &amp; lib. 3. c. 14. N. 18. <hi>Fleta,</hi> lib. 1. c. 16. N. 3 Sir <hi>Thomas Smith, de Rep. Angl.</hi> lib. 2. c. 4. <hi>Lambard inter Leges Edovardi,</hi> F. 143.9. E. 4.2. a. 27. H. 8. c. 24.</p>
+            <p n="3">3. He only may Proclaim War, and he ſolely can eſtabliſh Peace among his people, <hi>Co.</hi> Lib. 7. <hi>Calvin</hi>'s <hi>Caſe,</hi> F. 256. <hi>Smith</hi>'s <hi>Common wealth,</hi> Lib. 2. c. 4. 19. E. 46. <hi>Co.</hi> 4. <hi>Juſt.</hi> f. 152. 2. H. 5. cap. 2.</p>
+            <p n="4">4. There is no Lawful Aſſembly, Meeting, or Court, but by Authority from him: Yea, the High Court of Parliament was at firſt deviſed, framed, and inſtituted by him. <hi>Polyd. Virg.</hi> Lib. 11. <hi>Speed, Stow, Martin, Baker,</hi> and many others in the Life of <hi>H.</hi> 1.</p>
+            <p n="5">
+               <pb n="8" facs="tcp:95594:6"/>5. By him all the Officers of the Realm, whether Temporal, or Eccleſiaſtical, are choſen and eſtabliſh<g ref="char:EOLhyphen"/>ed; the Chief and Higheſt by himſelf immediately; and mediately the Inferiour Officers by Authority from him. Sir <hi>Thomas Smith,</hi> Lib. 2. Cap. 4, &amp; 5. <hi>Bracton,</hi> Lib. 2. c. 24. <hi>Mirror</hi> c. 4. Sect. 2, &amp; 4. <hi>Fleta</hi> Lib. 1. c. 17.12. <hi>H.</hi> 7.17. <hi>b. Co.</hi> Lib. 12. <hi>Caſe of Con<g ref="char:EOLhyphen"/>ſpiracy,</hi> f. 25.27. <hi>H.</hi> 8. c. 24.</p>
+            <p n="6">6. By him all Liberties, Franchiſes and Cuſtoms are granted and confirmed to the people. <hi>Bracton,</hi> Lib. 2. c. 24. N. 2. <hi>Cowells Juſt.</hi> 1, 2, 5. <hi>Dyer</hi> 44. <hi>b. Co.</hi> Lib. 11.87. <hi>Caſe of Monopolies.</hi>
+            </p>
+            <p n="7">7. He hath the ſole Power of ordering and diſpo<g ref="char:EOLhyphen"/>ſing all the Caſtles, Forts and ſtrong Holds, and all the Ports and Havens, and generally all the Militia of the Kingdom. <hi>Co. Litt.</hi> 5. a. <hi>Co.</hi> 2. <hi>Juſt.</hi> 30.13. <hi>Car.</hi> 2. c. 6.14. <hi>Car.</hi> 2. c. 3. <hi>Co.</hi> 3. <hi>Juſt.</hi> 160, <hi>&amp;</hi> 83. <hi>Co.</hi> Lib. 12. <hi>The Caſe of the Kings Prerogative in</hi> Salt-Peter.</p>
+            <p>In ſhort, The Prince is the Life, the Head, and Au<g ref="char:EOLhyphen"/>thority of all Things that be done in the Realm of <hi>England. Smith,</hi> Lib. 2. c. 4.</p>
+            <p>
+               <note place="margin">
+                  <hi>Cambden</hi> in his <hi>Britania</hi> of the King of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+               </note> 
+               <hi>Supreman poteſtatem, &amp; merum Imperium apud nos habet: Nec in Imperii Clientela eſt, nec Inveſtituram ab alio accipit, nec preter Deum, ſupremum agnoſcit:</hi> He hath Soveraign Power, and Abſolute Command among us; neither holdeth he his Empire in Vaſſallage, nor receiveth the Inveſtiture, or Enſtalling from another; nor yet acknowledgeth any Superiour but God Al<g ref="char:EOLhyphen"/>mighty above.</p>
+            <p>
+               <hi>Bracton,</hi> That Wrote in the Reign of <hi>H.</hi> 3. ſays thus,<note place="margin">Lib. 1. c. 8. N. 5.</note> 
+               <hi>Sunt etiam ſub Rege Liberi Homines &amp; ſervi ejus poteſtati ſubjecti, &amp; omnis quidem ſub eo, &amp; ipſe ſub nullo, niſi tantum ſub Deo:</hi> And in another place after ſays he,
+<pb n="9" facs="tcp:95594:6"/>
+               <hi>Rex habet Juriſdictionem ſupra omnes,</hi>
+               <note place="margin">Lib. 4. c. 24. N. 1.</note> 
+               <hi>qui in Regno ſuo ſunt.</hi>
+            </p>
+            <p>King <hi>H.</hi> 8. upon a Conteſt touching an Eccleſiaſti<g ref="char:EOLhyphen"/>cal Immunity, uttered theſe very words;<note place="margin">
+                  <hi>Doct. Burnet's</hi> Hiſt. <hi>of the Reformation,</hi> Lib. 1. part. 1. f. 17.</note> 
+               <hi>By the per<g ref="char:EOLhyphen"/>miſſion and Ordinance of God we are King of</hi> England, <hi>and the Kings of</hi> England <hi>in times paſt had never any ſuperi<g ref="char:EOLhyphen"/>our, but God only; Therefore know you well, that we will maintain the Right of our Crown, and of our Temporal Juriſdiction, as well in this as in all other Points, in as ample manner as any of our Progenitors have done before our time.</hi> Add hereunto, That this Soveraignty and Su<g ref="char:EOLhyphen"/>premacy appertaining to our Kings, and to the Empe<g ref="char:EOLhyphen"/>rial Grown of <hi>England,</hi> is aſſerted, not only by our Books of Law, but likewiſe thoſe Statutes that have been Enacted by our Princes and Nobles in Parliament, do affirm the ſame; witneſs 16. <hi>R.</hi> 2. <hi>C.</hi> 5.24. <hi>H.</hi> 8. <hi>c.</hi> 12.25. <hi>H.</hi> 8. <hi>c.</hi> 21, <hi>&amp;</hi> 22 1 <hi>Eliz c.</hi> 1. <hi>&amp;</hi> 1. <hi>Jac. c.</hi> 1. All which Statutes you may peruſe at your own leiſure. Now I would fain know of any <hi>Popeling</hi> or <hi>Fanatick,</hi> what greater or more Royal Power can any Prince of <hi>Juda</hi> or <hi>Iſrael</hi> claim, than is here by our Laws ac<g ref="char:EOLhyphen"/>knowledged to be in the King of <hi>England.</hi>
+            </p>
+            <p>The Third Reſpect in his Charge and Duty, which conſiſts in the obſervance of the Law of God, the Law of Nature, and the Laws of this Realm.</p>
+            <p>To obſerve the Law of God, He is bound as a Chri<g ref="char:EOLhyphen"/>ſtian; to obſerve the Law of Nature, he is obliged as a Man; to obſerve the Laws of his Realm, he is bound as a King: Nor is he only bound, <hi>vinculo Offieii,</hi> as he is a King, tho' this is a ſtrict tye, conſidering to whom he muſt one day render an Accompt of his Steward<g ref="char:EOLhyphen"/>ſhip; but he is alſo bound, <hi>Vinculo Juramenti,</hi> by an Oath taken at his Coronation: The effect whereof is
+<pb n="10" facs="tcp:95594:7"/>this,<note place="margin">
+                  <hi>Of the Oath at the Coronati<g ref="char:EOLhyphen"/>on.</hi> ſee Fleſa Lib. 1. c. 17. N. 12, 13, 14, <hi>&amp;c.</hi>
+               </note> 
+               <hi>To keep, confirm, and defend all Laws, Cuſtoms, and Freedoms, granted by his Predeceſſors to the Clergy or People; to preſerve Peace and Concord, and cauſe equal and right Juſtice to be done, according to his Power.</hi> Whence it is very evident, that the King hath his Duty enjoyned him, and ought not to make his Will the Rule of his Actions. <hi>Temperent igitur</hi> (ſays <hi>Fleta</hi> Lib. 1. c. 17. N. 11.) <hi>Reges potentiam ſuam per Legem, quae frenum eſt Potentiae, quod ſecundum Leges vivant, quia hoc ſanxit Lex humana, quod Leges ſuum ligent Lato<g ref="char:EOLhyphen"/>rem, &amp; alibi digna vox ex Majeſtate Regnantis eſt Legi<g ref="char:EOLhyphen"/>bus alligatnm ſe principem profiteri: praeterea nihil tam proprium imperio quam Legibus vivere, &amp; majus eſt Impe<g ref="char:EOLhyphen"/>rio Legibus ſubmittere Principatum.</hi>
+            </p>
+            <p>The fourth and laſt Reſpect, is in the rendring of his Account; For as the King's mentioned in Scripture were not, ſo the King of <hi>England</hi> is not accountable for his Actions to any but God alone.</p>
+            <p>
+               <hi>Firſt,</hi> Becauſe the King of <hi>England</hi> hath not his Crown from any but God alone. Not only <hi>Holy</hi>
+               <note n="(o)" place="margin">
+                  <hi>Prov.</hi> 8.15. <hi>Rom.</hi> 13.2. <hi>Pſalm</hi> 82.8. <hi>John</hi> 19.11. <hi>Pſal.</hi> 62.11.</note> 
+               <hi>Scrip<g ref="char:EOLhyphen"/>ture,</hi> but the writings of Heathens have declared, that in Soveraign Princes there is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſomething di<g ref="char:EOLhyphen"/>vine, above the reach of man, which cannot be de<g ref="char:EOLhyphen"/>rived from them; and therefore they are deſcended more immediately from the gods, and more particular<g ref="char:EOLhyphen"/>ly depending on them. Kings are from <hi>Jupiter,</hi> (ſays <hi>Callimachus,</hi>) and nothing ever deſcended more ſacred from him. And <hi>Homer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; <hi>Ab Jove ſummus Honos. Omnis provectus, maxime Regius, ad divinitatis munera referendus eſt</hi> Says Vitigis, <hi>apud Caſſiodorum.</hi>
+               <note place="margin">M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>terent. apud Tacitum <hi>lib. 6.</hi>
+               </note> 
+               <hi>Tibi ſummum Rerum Judicium, dii de<g ref="char:EOLhyphen"/>dere, nobis obſequii gloria relicta eſt;</hi> no Law could pu<g ref="char:EOLhyphen"/>niſh, nor any call Kings to account but the gods; who
+<pb n="11" facs="tcp:95594:7"/>as they gave them the higheſt Empire here, ſo did they leave their Subjects nothing but the Glory of obeying.</p>
+            <p>But it may be ſaid by our <hi>Fanaticks,</hi> how can the Kings Power be thought to be only and immediately from God, when it is derived to him by ordinary means of Hereditary Succeſſion?</p>
+            <p>It is anſwered, That Election, Succeſſion, and Lawful Conqueſt, are Titles whereby Princes receive their Au<g ref="char:EOLhyphen"/>thority; they are not the Original and immediate Foun<g ref="char:EOLhyphen"/>tain of this Authority. Heat, Moyſture, Cold, Dry<g ref="char:EOLhyphen"/>neſs, and our Temper ariſing from them (whilſt we are miraculouſly faſhioned in our Mothers Womb) are preparations, whereby our Bodies are made fit Recep<g ref="char:EOLhyphen"/>tacles for our Souls; but the Creator of our Souls is God: So Princes have juſt claim to their Soveraign Power, by the titles of Succeſſion and Conqueſt; but the Prime Author of their Power is God. <hi>Cujus juſſu</hi> (ſays Irenaeus) <hi>naſcuntur homines, ejus juſſu Conſtituun<g ref="char:EOLhyphen"/>tur Principes: By whoſe appointment they are born Men, and made reaſonable Creatures; by his appointment are they made Princes.</hi> And as they receive their Power only from God, ſo for the good or evil Adminiſtra<g ref="char:EOLhyphen"/>tion thereof, they are accountable only unto God, as unto their Superior, and not unto any mortal Crea<g ref="char:EOLhyphen"/>ture. God only maketh them Kings, and only can unmake them, and deject them from their Thrones; according to the Rule of Law, <hi>Ejuſdem eſt deſtituere, cujus &amp; inſtituere.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> The Oath that the King takes at his Coro<g ref="char:EOLhyphen"/>nation, binds him only before God; for there is no Condition, Promiſe or Limitation, whereby he is made Accountable to his People.</p>
+            <p>
+               <pb n="12" facs="tcp:95594:8"/>
+               <hi>Thirdly,</hi> By the ſuffrage, and Teſtimony of our Lawyers, it appears, that the King of <hi>England</hi> is un<g ref="char:EOLhyphen"/>accountable to any humane Power on Earth. And we begin with <hi>Bracton,</hi> who tells us, that we have no Le<g ref="char:EOLunhyphen"/>gal Remedy, we can only humbly Petition His Sacred Majeſty, <hi>Locus erit Supplicationi, quod factum ſuum cor<g ref="char:EOLhyphen"/>rigat,</hi>
+               <note place="margin">Lib. 1. cap. 8. N. 5.</note> 
+               <hi>&amp; emendet; Quod quidemſi non fecerit, ſatis ſuffi<g ref="char:EOLhyphen"/>cit ei ad praenam, quod dominum expectet ultorem. Nemo quidem de factis ſuis, praeſumat diſputare, multo fortius Contra factum ſuam venire.</hi> If he will not hearken to our juſt and reaſonable deſires, <hi>ſatis ſufficit,</hi> his puniſh<g ref="char:EOLhyphen"/>ment is more than enough; for he muſt render an ac<g ref="char:EOLhyphen"/>count to him that judgeth Righteouſly. Let not men preſume to queſtion his deeds, much leſs to undo by force what he ſhall do, though not according to Right. That our <hi>Fanaticks</hi> may not think this dropt from our <hi>Bracton</hi> unwariily, he repeats it in other places, and <hi>Lib.</hi> 5. <hi>Tract.</hi> 3. <hi>De defaltis, Cap.</hi> 3. <hi>N.</hi> 3. He puts the Caſe, that <hi>the King ſhould do injury, and a Plea is brought againſt him, in whoſe behalf he did it; the King being Petitioned and Perſiſting,</hi> and he rules it thus, <hi>Quo caſu cum dominus Rex ſuper hoc fuerit interpellatus in eadem perſtiterit voluntate, quod vellet tenentem eſſe defenſum injuria, cum teneatur juſtitiam totis viribus defenſare, ex tunc erit injuria ipſius Domini Regis, nec poterit, ei neceſſitatem imponere, quod illam corrigat &amp; emendet niſi velit, cum ſuperiorem non habeat niſi deum, &amp; ſatis erit illi propaena, quod deum expectet ultorem.</hi> If the King, who is bound to Adminiſter Juſtice to his utmoſt power, will not recall the wrong he did upon a falſe ſuggeſtion, in this caſe he injures his Subjects; but no body can force him to do Right, becauſe he hath ſupream Power; he hath no ſuperior but God only, and it is ſufficient
+<pb n="13" facs="tcp:95594:8"/>that we ſhall have a day of hearing hereafter at a juſt Tribunal, where he ſhall be puniſhed for doing wrong, and we amply requited for our patient ſuffering.</p>
+            <p>
+               <hi>Gilbert de Thornton,</hi> Chief Juſtice under <hi>Edward</hi> the Firſt, ſpeaketh in the ſame manner; <hi>Cum proviſum ſit,</hi>
+               <note place="margin">Fleta Lib. 1. c. 17. N. 9.</note> 
+               <hi>quod quilibet in ſui juris proſequutione potius judicio, quam viribus utatur, &amp; oportet Laeſos Regem adire, ut oſtenſis ſibi injuriis illatis, Celerem juſtitiam petentibus faciat exhiberi, qui ſi noluerit de ſeipſo, vel de alio, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>x tunc deum expectent conquerentes ultorem: Nemo enim de facto Regis praeſumat diſputaare, nec contrafactum ſuum venire. Stamford</hi> in his Expoſition of the Kings Prerogative is of the ſame mind with <hi>Bracton</hi> and <hi>Thornton;</hi> for he ſays, <hi>That by the Common Law, there lyeth no Action or Writ againſt the King, but when he ſeizeth the Subjects Lands or Goods, having no Title by order of Law ſo to do: Petition is all the Remedy the Subject hath, and this Peti<g ref="char:EOLhyphen"/>tion is called a</hi> Petition of Right.</p>
+            <p>With our Lawyers do concurr two of our Parlia<g ref="char:EOLhyphen"/>ments, which have declared that the King of <hi>England</hi> is, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> accountable to none but God, and therefore no way obnoxious to any humane co<g ref="char:EOLhyphen"/>ercive Power. <hi>Thomas de Walſingham</hi> mentions a Letter written to the Biſhop of <hi>Rome</hi> in the name of the whole Kingdom, from the Parliament held at <hi>Lincoln, Anno Domini</hi> 1301, wherein are theſe words, <hi>Scimus, Pater Sanctiſſime, &amp; notorium eſt, a prima inſtitutione Regni Angliae, tam temporibus</hi> Britannorum, <hi>quam Anglorum, quod certum &amp; directum dominium ad Regem pertinuit ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Reges Angliae ex libera pre-eminentia Regiae dignitatis, &amp; Conſuetudine cunctis temporibus obſervata, coram aliquo Ju<g ref="char:EOLhyphen"/>dice Eccleſiaſtico, velſeculari reſponderunt, aut reſpondere debebant.</hi> We know moſt holy Father, and it is mani<g ref="char:EOLhyphen"/>feſt,
+<pb n="14" facs="tcp:95594:9"/>from the very beginning of the Kingdom of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as well in the time of the <hi>Brittains</hi> as of the <hi>An<g ref="char:EOLhyphen"/>gles,</hi> that the certain and direct dominion hath be<g ref="char:EOLhyphen"/>longed unto the King, neither have the Kings of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> (by reaſon of the undoubted preheminence of the Royal Dignity and Cuſtom obſerved in all Ages) anſwered, or ought to anſwer before any Judge Ecclefi<g ref="char:EOLhyphen"/>aſtical or Civil.</p>
+            <p>The other Parliament was held at <hi>Weſtminſter</hi> in the Reign of the King that now is, whereat the Lords and Commons have declared,<note place="margin">12. <hi>Car.</hi> 2. c. 30.</note> 
+               <hi>That by the undoubted, and Fun<g ref="char:EOLhyphen"/>damental Laws of this Kingdom, neither the Peers of this Realm, nor the Commons, nor both together in Parliament, nor the People collectively, or repreſentatively, nor any other perſons whatſover ever had, have, hath, or ought to have, any coercive Power over the perſons of the Kings of</hi> Eng<g ref="char:EOLhyphen"/>land.</p>
+            <p>You ſee, (Sir) that though there be Laws to guide and direct our Princes, yet if they chance to forget them<g ref="char:EOLhyphen"/>ſelves ſo much as to violate and break through them, there is no Law whereby Subjects may reſiſt and puniſh them; their Miniſters and Inſtruments are ever account<g ref="char:EOLhyphen"/>able, but as to themſelves, it is a known Maxime a<g ref="char:EOLhyphen"/>mong our Lawyers, <hi>That they can do no wrong.</hi>
+            </p>
+            <p>But after all that has been ſaid, there are ſome Hunt-Scrap Lawyers and Polititians ready to raiſe ſuch objections as theſe following.</p>
+            <p>From whom the King receiveth his power,<note place="margin">
+                  <hi>Object.</hi> 1.</note> to them he is accountable; but from the people the King recei<g ref="char:EOLhyphen"/>veth his power; as <hi>Forteſcue</hi> delivers, <hi>Cap.</hi> 13. <hi>Ad tu<g ref="char:EOLhyphen"/>telam Legis ſubditorum ac eorum Corporum &amp; Bonorum, Rex erectus, &amp; hanc poteſtatem a populo eſtluxam ipſe habet.</hi> A King is ordained for the defence of the Law of his
+<pb n="15" facs="tcp:95594:9"/>Subjects, and of their Bodies and Goods; whereunto he receiveth Power of his People: Therefore to his People, the King is accountable.</p>
+            <p>If the Makers of this Objection did rightly ſet down the words of <hi>Forteſcue,</hi>
+               <note place="margin">Solution.</note> they might eaſily An<g ref="char:EOLhyphen"/>ſwer themſelves; for it is not barely <hi>Rex</hi> a King, but <hi>Rex hujuſmodi,</hi> ſuch a King, meaning a King whoſe Government is meerly Politick. But the Govern<g ref="char:EOLhyphen"/>ment of <hi>England</hi> is not meerly Politick, nor meerly Regal, but mixt; partly regal and partly politick: as <hi>Forteſcue</hi> ſaith preſently after, <hi>Regnum Angliae ex Bru<g ref="char:EOLhyphen"/>ti Comitiva Trojanorum, in dominium politicum, &amp; Rega<g ref="char:EOLhyphen"/>le prorupit;</hi> The King of <hi>England</hi> out of <hi>Brutus</hi> his retinue of the <hi>Trojans,</hi> firſt grew into a Politick and Regal Dominion. And in the Ninth Chapter, <hi>Rex An<g ref="char:EOLhyphen"/>gliae principatu, nedum regali politico, ſuo populo Domina<g ref="char:EOLhyphen"/>tur:</hi> The King of <hi>England</hi> Governeth his People by Dominion, notonly Regal, but alſo Politick.</p>
+            <p>How it is Regal, and how Politick, doth plainly appear by what hath been before ſpoken; for in regard all Power and Authority is derived from him, and he holds his Kingdom, and there withal his Power from God only, it muſt needs be, that his Government is Re<g ref="char:EOLhyphen"/>gal; and in regard he is tyed to the obſervance of the Laws of his Kingdom, (whereby <hi>Poteſtas Regia Lege po<g ref="char:EOLhyphen"/>litica cohibetur</hi> Forteſcue, <hi>Cap.</hi> 9. The Power Regal is re<g ref="char:EOLhyphen"/>ſtrained by a Law Politick) it muſt needs follow, that this Government is Politick: So that in reference to his Power, he is a Regal King; in reference to his Duty, he is a Politick King.</p>
+            <p>The Objection therefore being grounded upon <hi>For<g ref="char:EOLhyphen"/>teſcues</hi> words, of a Kingdom meerly Politick, does not concern our Kingdom.</p>
+            <p>
+               <pb n="16" facs="tcp:95594:10"/>He who is under the Law,<note place="margin">
+                  <hi>Object.</hi> 2.</note> may be called to account for his Actions; but the King is under the Law, <hi>Bracton</hi> ſays, <hi>Ipſe Rex non debet eſſe ſub homine,</hi>
+               <note place="margin">Lib. 1. c. 8. N. 5.</note> 
+               <hi>ſed ſub Deo, &amp; ſub Lege, Quia Lex facit Regem.</hi> The King himſelf ought not to be under man, but under God; and under the Law, becauſe the Law makes the King.</p>
+            <p>In Anſwer to this Objection,<note place="margin">Sulution.</note> we muſt call to mind that there is a two fold Power in the Law, a <hi>Directing Power,</hi> and a <hi>Correcting-Power.</hi>
+            </p>
+            <p>In reſpect of the former, the King is under the Law, <hi>That is to ſay,</hi> the Law is the Line and Rule whereby the Will of the King is guided and directed; and in this ſence <hi>Bracton</hi> ſpake.</p>
+            <p>In reſpect of the later, the King is not under the Law. For how can we poſſibly conceive, that he who giv<g ref="char:EOLhyphen"/>eth Life to the Law, ſhould by the Law offer force un<g ref="char:EOLhyphen"/>to himſelf, and compel himſelf; for as with the <hi>Gram<g ref="char:EOLhyphen"/>marians</hi> the Imperative-Mood hath no firſt Perſon, ſo with the Civilians;<note place="margin">
+                  <hi>D.</hi> 4.8.51. <hi>d.</hi> 36.1.13. <hi>d.</hi> 24.1.7, 8.</note> 
+               <hi>ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> imperare ſibi, ne<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſe prohibere quiſquam poteſt,</hi> no man can Command or forbid him<g ref="char:EOLhyphen"/>ſelf; at leaſtwiſe no man can impoſe ſuch a Law up<g ref="char:EOLhyphen"/>on himſelf, but that he may recede from it when he pleaſeth. <hi>D.</hi> 32.1.22. <hi>de Leg.</hi> 3.</p>
+            <p>He that is under the former power only, is account<g ref="char:EOLhyphen"/>able to God only for his Actions; as the King. But he that is under both Powers of the Law, is accountable both to God and the Law; as is every Subject.</p>
+            <p>Again, In reſpect of the <hi>Directing</hi> Power, the Law is the <hi>Object and Rule of Juſtice,</hi> and ſo the King is un<g ref="char:EOLhyphen"/>der the Law: In Reſpect of the <hi>Correcting</hi> Power, the Law is the <hi>Inſtrument of Juſtice,</hi> and ſo the King is not under the Law; but the Law is a means, ſerving the King, to govern his People.</p>
+            <p>
+               <pb n="17" facs="tcp:95594:10"/>To illuſtrate this by an example; a Servant who guides and directs his Maſter, as he is a Guide, is ſuperi<g ref="char:EOLhyphen"/>our to his Maſter; but conſider him as an Inſtrument and Servant unto his Maſter, and though he be never ſo Wiſe and Upright, yet his Maſter is above him.</p>
+            <p>And as the Law is ſaid to be above the King, ſo in the ſame Sence His Council may alſo be ſaid to be a<g ref="char:EOLhyphen"/>bove him; that is, in reſpect they guide,<note place="margin">Bracton Lib. 2. c. 16. N. 3. Fleta Lib. 1. c. 17. N. 9.</note> direct and adviſe the King in the Governing of his People. For ſo ſay our two antient Lawyers; <hi>The King hath Superiors in the Governing of his People, the Law by which he is made, and his Council,</hi> to wit, <hi>The Earls and Barons.</hi>
+            </p>
+            <p>But here a ſcruple may ariſe, what <hi>Bracton</hi> and <hi>Fle<g ref="char:EOLhyphen"/>ta</hi> mean, when they ſay, <hi>The Law makes the King.</hi> It is anſwered, there are two ſingular and excellent bene<g ref="char:EOLhyphen"/>fits, which by the Law redound unto the King. The one is, the Law does declare and publiſh unto the Peo<g ref="char:EOLhyphen"/>ple the Kings Right unto the Crown, ſo that they qui<g ref="char:EOLhyphen"/>etly and willingly receive him as their King, and ſub<g ref="char:EOLhyphen"/>mit unto him. The other Benefit is, the Law doth ſupport and ſtrengthen him in his Emperial Throne. In both which reſpects it may well be ſaid, <hi>That the Law makes the King,</hi> and ſo Sir <hi>Edward Coke</hi> ſpake right when he told King <hi>James, That the Law ſet the Crown upon his Head.</hi>
+            </p>
+            <p>
+               <hi>Sir,</hi> Theſe Objections being fully (as I think) an<g ref="char:EOLhyphen"/>ſwered, I ſhall leave you, and your <hi>Fanatick</hi> Neigh<g ref="char:EOLhyphen"/>bours, to compare what hath been now by me proved, with what hath been by ſome of our Divines lately delivered out of the Scriptures; and you will clearly find, <hi>That the King of</hi> England <hi>is ſuch a King as the Scriptures make mention of.</hi> And if it be ſo, how then can <hi>Fanaticks</hi> take up Arms againſt him? If he be wick<g ref="char:EOLhyphen"/>ed, what advantage will it be to them to be worſe?
+<pb n="18" facs="tcp:95594:11"/>If he break his Oath, will they alſo break theirs? Or can they ſay, that they ſwear Allegiance unto him on conditon of his good Behaviour? Does the Statute of 25. <hi>Ed.</hi> 3. <hi>C.</hi> 2. declare it to be Treaſon only, to Levy War againſt a good, a juſt King? Why then did not the Proteſtants take up Arms againſt that bloody Idolatrous Queen <hi>Mary?</hi> Why then is it Treaſon to compaſs the Death of an Uſurper of the Crown? <hi>Dalt.</hi> 227. Was not <hi>Spencer</hi> baniſhed for the affirming,<note place="margin">Co. <hi>Lib. 7.</hi> Calvin's Caſe.</note> 
+               <hi>That if the King did not demean himſelf by Reaſon, in the Right of the Crown, His Subjects were bound by Oath to remove him?</hi> Oh <hi>Fanaticks!</hi> take heed of this unhap<g ref="char:EOLhyphen"/>py principle, which not long ſince ruined as Flouri<g ref="char:EOLhyphen"/>ſhing a Kingdom as any in the Chriſtian World. By the dire Effects of it, our Religion was aboliſhed, our Foundations over-turned, our Laws abrogated, the Government of Church and State diſſolved; inſtead of Religion, Atheiſm and Infidelity, <hi>Fanatick</hi> Rage, and wild <hi>Enthuſiaſme;</hi> In ſhort, inſtead of Liberty and Property, the voice of Sequeſtrations, Plunders and Decimations were heard in the Land.</p>
+         </div>
+         <div type="treatise">
+            <pb n="19" facs="tcp:95594:11"/>
+            <head>
+               <hi>FLAGELL<g ref="char:V">Ʋ</g>M CONCILIAB<g ref="char:V">Ʋ</g>LOR<g ref="char:V">Ʋ</g>M:</hi> OR, A ROD for the FOOLS-BACK.</head>
+            <head type="sub">
+               <hi>SHEWING</hi> What Laws, both Forreign and Domeſtick, have been framed for the Prevention and Suppreſſion of Conven<g ref="char:EOLhyphen"/>ticles.</head>
+            <p>THe gathering of Aſſemblies is reckoned as an eſpecial Priviledge of Soveraign Princes; who in all times have been jealous of them, and provided ſevere Laws againſt them; and good Reaſon for ſuch Jealouſy, for that it is impoſſible (be the pretences of Meeting never ſo ſpecious and fair) to Govern People, and keep them quiet long, if they have liberty to flock together at their pleaſures: And therefore there is a neceſſity, that all Aſſemblings of people, whether upon a Sacred or Civil account, ſhould be abſolutely in the Power of Princes.</p>
+            <p>To which purpoſe, both remarkable and agreable are thoſe Laws and Edicts made by the Policy of the <hi>Greeks</hi> and <hi>Romans,</hi> whereunto we will add thoſe Laws, Canons, and Conſtitutions that have been Enacted in our Parliaments and Convocations. And we ſhall be<g ref="char:EOLhyphen"/>gin with thoſe that are Foreign.</p>
+            <p>
+               <hi>Iſocrates,</hi> under the perſon of King <hi>Nicocles,</hi> thus in<g ref="char:EOLhyphen"/>ſtructs his Subjects;
+<q>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+               </q>
+               <pb n="20" facs="tcp:95594:12"/>In Engliſh thus, <q>Make no Societies nor Coventicles with<g ref="char:EOLhyphen"/>out my Licenſe: Aſſemblies of this kind, as in other Go<g ref="char:EOLhyphen"/>vernments they are hurtful, ſo in Monarchies they are ex<g ref="char:EOLhyphen"/>ceeding dangerous.</q> Agreable hereto is that of <hi>Mecenas</hi> in <hi>Dio,</hi> who pronounceth, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. That is in Engliſh, <hi>Combinations, and Aſſemblies, and Aſſociations, are things that do not very well conſiſt with a Monarchy.</hi>
+            </p>
+            <p>Upon this account <hi>Arnoldus Clapmarius</hi> ſhews, how pernitious and dangerous are Conventicles in a Govern<g ref="char:EOLhyphen"/>ment;<note place="margin">L<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>b. <hi>3.</hi> cap. <hi>13.</hi> de Arcanis Do<g ref="char:EOLhyphen"/>nationis.</note> and gives us <hi>Tacitus</hi>'s Note, <hi>In Rebellione Gallia<g ref="char:EOLhyphen"/>rum: Igitur</hi> (ſays Tacitus) <hi>per conciliabula &amp; Caetus ſedi<g ref="char:EOLhyphen"/>tioſa diſſerebant.</hi> From whence ſuch unlawful Aſſemblies are prevented and ſuppreſſed by the Decrees and Con<g ref="char:EOLhyphen"/>ſtitutions of the <hi>Roman</hi> Princes, and Senators, which are to be found in the Body of the Civil Law; which I now preſent to the Reader.</p>
+            <p>
+               <hi>Sub praetextu Religionis,</hi>
+               <note place="margin">D. <hi>47.11.2.</hi> de caetibus illi<g ref="char:EOLhyphen"/>citis.</note> 
+               <hi>vel ſub ſpecies ſolvendi voti Caetus illicitos nec a veteranis tempetare oportet.</hi>
+            </p>
+            <p>
+               <hi>Mandatis principalibus praecipitur praeſidibus provincia<g ref="char:EOLhyphen"/>rum, ne patiantur eſſe Collegia ſodalitia neve milites, Collegia in caſtris habeant.</hi>
+               <note place="margin">D. <hi>47.22.1.</hi> de Collegii.</note> 
+               <hi>Sed permittitur tenuioribus Stipem men<g ref="char:EOLhyphen"/>ſtruam Conferre dum tamen ſemel in menſe caeant ne ſub prae<g ref="char:EOLhyphen"/>textu hujuſmodi illicitum Collegium coeat. Quod non tantum in urbe ſed &amp; in Italia, &amp; in provinciis Locum habere Divus quo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſeverus reſcripſit Sed Religionis Cauſa coine non pro<g ref="char:EOLhyphen"/>hibentur,</hi>
+               <note place="margin">D. <hi>47.22.2.</hi> de p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>na.</note> 
+               <hi>dum tamen per hoc non fiat Contra Sena<g ref="char:EOLhyphen"/>tuſconſultum quo illicita Collegiaarcentur. Quiſquis illicitum Collegium <g ref="char:V">Ʋ</g>ſurpaverit, ea paena quo Tenetur qui hominibus armatis Loca publica vel templa occupaſſe judicati ſunt.</hi>
+            </p>
+            <p>
+               <hi>In ſumma autem niſi ex ſenatuſconſulti auctoritate, vel Caeſaris;</hi>
+               <note place="margin">
+                  <hi>D.</hi> 47.22.3.1.</note> 
+               <hi>Collegium; vel quod cunque tale Corpus coierit, contra ſenatuſconſultum et mandata, &amp; conſtitutiones colle<g ref="char:EOLhyphen"/>gium celebrant.</hi>
+            </p>
+            <p>
+               <pb n="21" facs="tcp:95594:12"/>By theſe Texts of Law, we are informed, that un<g ref="char:EOLhyphen"/>lawful Colledges, Corporations and Aſſemblies, gather<g ref="char:EOLhyphen"/>ed together to bad uſes, as to Eating, Drinking, Wan<g ref="char:EOLhyphen"/>tonneſs, Conſpiracy, are puniſhed as publick Routs and Riots. Thus much for the Digeſts, I come now to what is ſaid of Conventicles in thoſe parts of the Civil Law, we call the <hi>Codes,</hi> the <hi>Novels,</hi> and the <hi>Feuds.</hi>
+            </p>
+            <p>In the <hi>Code</hi> of the Emperour <hi>Juſtinian,</hi>
+               <note place="margin">
+                  <hi>Cod.</hi> 1.3.15. de illicitis conventiculis.</note> you have this Text of Law; <hi>Conventicula illicita etiam extra Eccleſi<g ref="char:EOLhyphen"/>am in privatis aedibus celebrari prohibemus, proſcriptionis domus periculo imminente, ſi dominus ejus in ea Clericos no<g ref="char:EOLhyphen"/>va, ac tumultuoſa Conventicula extra Eccleſiam celebrantes ſuſceperit.</hi> For more of this matter of Conventicles, the Reader may at leiſure ſee. <hi>Cod.</hi> 1.12.5. <hi>Cod.</hi> 1.5.6. and 8.</p>
+            <p>In the Novels it is declared, That the ſacred Myſteries or Miniſteries be not done in private Houſes, but be ce<g ref="char:EOLhyphen"/>lebrated in publick places, leaſt thereby things be done contrary to the Catholick, and Apoſtolick Faith: unleſs they call to the celebrating of the ſame, ſuch Clerks of whoſe Faith and Conformity there is no doubt made, or thoſe that are deputed thereunto by the good will of the Biſhop. But places to pray in, every man may have in his own Houſe; if any thing be done to the contrary, the Houſe wherein theſe things are done ſhall be con<g ref="char:EOLhyphen"/>fiſcated, and themſelves ſhall be puniſhed at the diſcre<g ref="char:EOLunhyphen"/>tion of the Prince.</p>
+            <p>In the <hi>Feuds</hi> it is deereed thus;<note place="margin">Feudorum, lib. 2. Tit. 53.</note> 
+               <hi>Conventicula quoque in Civitatibus, Omneſque Conjurationes, &amp; extra etiam oc<g ref="char:EOLhyphen"/>caſione parentelae, &amp; inter Civitatem, &amp; Civitatem, &amp; inter perſonam &amp; perſonam, ſive inter Civitatem &amp; per<g ref="char:EOLhyphen"/>ſonam, modis omnibus fieri prohibemus: Et in preteritum factas Caſſamus, ſingulis conjuratorum paena unius Li<g ref="char:EOLhyphen"/>brae
+<pb n="22" facs="tcp:95594:13"/>auri puniendis. Epiſcopos vero Locorum Eccleſiaſtica cenſura violatores hujus ſanctionis, donec ad ſatisfactionem veniant, voluimus coercere. Receptoribus etiam malefacto<g ref="char:EOLhyphen"/>rum, qui praedictam pacem violeverint, &amp; praedam ementi<g ref="char:EOLhyphen"/>bus noſtram indignationem ſubituris, &amp; ejuſdem paenis feri<g ref="char:EOLhyphen"/>endis. Praeterea bona ejus publicentur &amp; domus ejus deſtru<g ref="char:EOLhyphen"/>atur.</hi> By this edict it appears, that <hi>Domus ubi conven<g ref="char:EOLhyphen"/>ticula, aut Conſpirationes fiunt confiscatur, &amp; Receptans violatorem Legis pari cum eo paena punietur. The Houſe where Conventicles or Conſpiracies are made, is to be con<g ref="char:EOLhyphen"/>fiſcated; and he who receives any offender againſt this Law, muſt be lyable with him to the ſame Puniſhment.</hi>
+            </p>
+            <p>Thus much of the Foreign Edicts made againſt Con<g ref="char:EOLhyphen"/>venticles and unlawful Aſſemblies, I paſs on to give an account what Laws, Canons and Conſtitutions have been ordained both in the Church and State of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> for the preventing and ſuppreſſing of the Conven<g ref="char:EOLhyphen"/>ticles of Sectaries. And we begin with the Laws enact<g ref="char:EOLhyphen"/>ed in the Reign of Queen <hi>Elizabeth,</hi> in whoſe name our <hi>Whiggs</hi> pretend to caſt out of the Kingdom thoſe Devils the <hi>Jeſuits, &amp;c.</hi> but will not obſerve one tittle of her Laws and Conſtitions made for the better Go<g ref="char:EOLhyphen"/>vernment of the Church and State.</p>
+            <p>In the 35th. year of the Queens Reign are enacted two Laws:</p>
+            <p>The firſt is for the puniſhment of thoſe perſons that obſtinately refuſe to come to Church, and perſwade others to impugne the Queens Authority in Ec<g ref="char:EOLhyphen"/>cleſiaſtical Cauſes, <hi>&amp;c.</hi> For what end this Puniſhment and for what perſons intended, the preamble of the ſame Statute demonſtrates; It is, <hi>For the preventing and avoid<g ref="char:EOLhyphen"/>ing of ſuch inconveniences and perills as might happen and grow by the wicked and dangerous practices of Seditious Sectaries, and diſloyal Perſons.</hi>
+            </p>
+            <p>
+               <pb n="23" facs="tcp:95594:13"/>The Second Law is,<note place="margin">35 Eliz. c. 2.</note> to impoſe a penalty on a Con<g ref="char:EOLhyphen"/>victed Popiſh-Recuſant, removing above five Miles from the Houſe, <hi>&amp;c.</hi> And for what end the penalty is impoſed, and what perſons are meant by this Law, the preamble thereof will inform us, <hi>It is for the bet<g ref="char:EOLhyphen"/>ter diſcovering and avoiding of ſuch Trayterous and moſt dangerous Conſpiracies and Attempts as are daily deviſed and practiſed againſt the Queens Majeſty, and the happy E<g ref="char:EOLhyphen"/>ſtate of this Common Wealth, by ſundry wicked and Sediti<g ref="char:EOLhyphen"/>ous perſons, who terming themſelves Catholicks, and being (indeed) Spies and Intelligencers not only for her Maje<g ref="char:EOLhyphen"/>ſties Foreign Enemies, but alſo for Rebellious and Traytor<g ref="char:EOLhyphen"/>ous Subjects, Born within her Realms and Dominions, and hiding their moſt deteſtable and diviliſh purpoſes under a falſe pretext of Religion and Conſcience, do ſecretly wander and ſhift from place to place within this Realm, to corrupt her Majeſties Subjects, and to ſtir them to Sedition and Re<g ref="char:EOLhyphen"/>bellion.</hi>
+            </p>
+            <p>From the Reign of Queen <hi>Elizabeth,</hi> we come to that of King <hi>James.</hi>
+            </p>
+            <p>In 1. <hi>Jacobi Regis, Anno</hi> 1603. there is a Canon and Conſtitution whereby maintainers of Conventicles are cenſured; the words of the Canon are theſe:</p>
+            <p>
+               <hi>Whoſoever ſhall hereafter affirm or maintain, that there are within this Realm, other Meetings,</hi>
+               <note place="margin">
+                  <hi>Canon.</hi> 11.</note> 
+               <hi>Aſſemblies or Con<g ref="char:EOLhyphen"/>gregations of the Kings born Subjects, then ſuch as by the Laws of the Land are held and allowed, which may rightly Challenge to themſelves the name of True and Lawful Churches: Let him be Excommunicated, and not reſtored but by the Arch-Biſhop, after his Repentance and publick Revocation of ſuch his wicked Errors.</hi> And as the maintainers of Conven<g ref="char:EOLhyphen"/>ticles are cenſured, ſo againſt the maintainers of Con<g ref="char:EOLhyphen"/>ſtitutions made in Conventicles, there is ordained a
+<pb n="24" facs="tcp:95594:14"/>Canon, which is the 12th. The words whereof are as follow.</p>
+            <p>
+               <hi>Whoſoever ſhall hereafter affirm,</hi>
+               <note place="margin">
+                  <hi>Canon</hi> 12.</note> 
+               <hi>that it is Lawful for any ſort of Miniſters and Lay-perſons, or either of them to joyn toge<g ref="char:EOLhyphen"/>ther and make Rules, Orders or Conſtitutions in Cauſes Eccleſiaſtical, without the Kings Authority, and ſhall ſubmit themſelves to be Ruled and Governed by them: Let them be excommunicated</hi> ipſo facto, <hi>and not be reſtored until they Repent and publickly revoke thoſe their wicked and Ana<g ref="char:EOLhyphen"/>baptiſtical errors.</hi> Add hereto a Third Canon againſt Miniſters holding private Conventicles; the very words whereof are theſe:</p>
+            <p>
+               <hi>For as much as all Conventicles,</hi>
+               <note place="margin">
+                  <hi>Canon</hi> 73.</note> 
+               <hi>and ſecret Meetings of Prieſts and Miniſters, have been ever juſtly accounted ve<g ref="char:EOLhyphen"/>ry hurtful to the ſtate of the Church wherein they live; we do now Ordain and Conſtitute, That no Prieſts or Miniſters of the Word of God, nor any other perſons ſhall meet to<g ref="char:EOLhyphen"/>gether in any private Houſe, or elſewhere, to conſult up<g ref="char:EOLhyphen"/>on any matter or courſe to be taken by them, or upon their motion, or direction by any other, which may any way tend to the impeachment or depravation of the Doctrine of the Church of</hi> England, <hi>or of the Book of Common-Prayer, or of any part of the Government and Diſcipline now eſtabliſh<g ref="char:EOLhyphen"/>ed in the Church of</hi> England <hi>under pain of Excommunica<g ref="char:EOLhyphen"/>tion</hi> ipſo facto. From King <hi>James</hi>'s Reign I deſcend to that of the Royal Martyr King <hi>Charles</hi> the Firſt; by whoſe Licenſe and Authority there was a Conſtitution and Canon Eccleſiaſtical framed and agreed upon, (in the ſeveral Synods held at <hi>London</hi> and <hi>York, Anno</hi> 1640) againſt Sectaries; And it is this; <hi>Whereas there is a Pro<g ref="char:EOLhyphen"/>viſion now made by a Canon for the ſuppreſſing of Popery, and the growth thereof, by Subjecting all Popiſh Recuſants to the greateſt Severity of Eccleſiaſtical cenſures in that be<g ref="char:EOLhyphen"/>half;</hi>
+               <note place="margin">
+                  <hi>Canon</hi> 5.</note>
+               <pb n="25" facs="tcp:95594:14"/>
+               <hi>This preſent</hi> Synod <hi>well knowing that there are other Sects which endeavour the ſubverſion both of the Doctrine, and Diſcipline of the Church of</hi> England <hi>no leſs than the Papiſts do, although by another way; for the preventing thereof, doth hereby decree and ordain, That all thoſe Pro<g ref="char:EOLhyphen"/>ceedings and Penalties, which are mentioned in the afore<g ref="char:EOLhyphen"/>ſaid Canon againſt Popiſh-Recuſants as far as they ſhall be applyable, ſhall ſtand in full Force and Vigour againſt all Anabaptiſts Browniſts, Separatiſts, Familiſts, or other Sect or Sects, perſon or perſons whatſoever, who do or ſhall either ob<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>nately refuſe, or ordinarily not having a Lawful Impediment, (that is for the ſpace of a Month) neglect to repair to their Pariſh-Churches or Chapels where they in<g ref="char:EOLhyphen"/>habit, for the hearing of Divine-Service Eſtabliſhed, and receiving of the Holy-Communion according to Law.</hi>
+            </p>
+            <p>
+               <hi>And further, becauſe there are ſprung up among us a ſort of factious people, Deſpiſers and Depravers of the Books of Common-Prayer, who do not according to the Law reſort to their Pariſh-Church or Chappel, to joyn in the publick Pray<g ref="char:EOLhyphen"/>ers, Service, and Worſhip of God with the Congregation, contenting themſelves with the hearing of Sermons only, thinking thereby to avoid the Penalties due to ſuch as whol<g ref="char:EOLhyphen"/>ly abſent themſelves from the Church. We therefore for the reſtraint of all ſuch wilfull Contemners or Neglectors of the Service of God, do ordain that the Church or Chappel-War<g ref="char:EOLhyphen"/>dens, and Queſtmen, or Sidemen of every Pariſh, ſhall be careful to enquire out all ſuch diſaffected perſons, and ſhall preſent the names of all ſuch Delinquents at all Viſitations of Biſhops, and other Ordinaries; and that the ſame Pro<g ref="char:EOLhyphen"/>ceedings and Penalties mentioned in the Canon aforeſaid re<g ref="char:EOLhyphen"/>ſpectively, ſhall be uſed againſt them as againſt other Recu<g ref="char:EOLhyphen"/>ſants, unleſs within one whole Month after they are firſt de<g ref="char:EOLhyphen"/>nounced, they ſhall make acknowledgment and reformation
+<pb n="26" facs="tcp:95594:15"/>of that their fault. Provided always that this Canon ſhall not derogate from any other Canon, Law, or Statute in that behalf provided againſt thoſe Sectaries.</hi> From the Reign of King <hi>Charles</hi> the 1ſt. I come to the Reign of the King that now is; wherein are Laws enacted (beſides thoſe againſt Nonconformiſts) for the preventing and ſuppreſſing of Conventicles. As for Example,</p>
+            <p>In the 16th. of King <hi>Charles</hi> the 2d. there is a Law,<note place="margin">16. <hi>Car.</hi> 2. <hi>c.</hi> 4.</note> Intituled, <hi>An act to prevent and ſuppreſs Seditious Con<g ref="char:EOLhyphen"/>venticles;</hi> and in the preamble thereof are theſe words to be read;</p>
+            <p>
+               <hi>Whereas an Act made in the five and thirtieth Year of the Reign of our late Sovereign Lady Queen</hi> Elizabeth, Entituled, <hi>An Act to retain the Queens Majeſties Subjects in their due Obedience, hath not been put in due Execution by reaſon of ſome doubt of late made, whether the ſaid Act be ſtill in force; altho' it be very clear and evident, and it is hereby declared, that the ſaid Act is ſtill in force, and ought to be put in due Execution. For providing therefore of further and more ſpeedy Remedies againſt the growing and dangerous practiſes of Seditious Sectaries, and other diſloyal perſons, who under pretence of tender Conſciences, do at their Meetings contrive Inſurrections, as late Experi<g ref="char:EOLhyphen"/>ence hath ſhewed.</hi> As for the Puniſhment, <hi>&amp;c.</hi> of this ſame Law, I ſhall not mention, becauſe it is expired.</p>
+            <p>In the 22d. year of the Reign of the King that now is,<note place="margin">22. <hi>Car.</hi> 2. <hi>c.</hi> 4.</note> there is another Law made, whereby 'tis enacted,</p>
+            <p n="1">1. That if any of the Age of Sixteen years or up<g ref="char:EOLhyphen"/>wards, being a Subject of this Realm, ſhall be preſent at any Conventicle, under pretence of any Exerciſe of Religion, in other manner than according to the Church of <hi>England,</hi> any Juſtice of Peace, <hi>&amp;c.</hi> on Proof, Confeſſion, Oath of two Witneſſes, or notori<g ref="char:EOLhyphen"/>ous
+<pb n="27" facs="tcp:95594:15"/>Evidence of the Fact, may make a Record of ſuch offence, which Record ſhall be a Conviction, and ſet a Fine of Five Shillings for the firſt offence, and for the ſecond, Ten Shillings, to be Levied by diſtreſs and ſale of the offenders Goods; or in caſe of Poverty, on the Goods of others then convicted of the like offence at the ſame Conventicle.</p>
+            <p n="2">2. That every perſon convicted of Preaching at any ſuch Meeting, ſhall forfeit for the firſt offence Twenty Pound; and if it be a Stranger, and his name and habitati<g ref="char:EOLhyphen"/>on not known, or he cannot be found, or be unable to pay, the Juſtice of Peace <hi>&amp;c.</hi> may Levy it upon any perſons that were preſent; and for the ſecond offence Forty Pound to be levied, and diſpoſed, <hi>&amp;c.</hi>
+            </p>
+            <p n="3">3. That every perſon convicted of wittingly ſuffer<g ref="char:EOLhyphen"/>ing any ſuch meeting to be held in his Houſe, Yard, <hi>&amp;c.</hi> ſhall forfeit Twenty Pound; and in caſe of his Po<g ref="char:EOLhyphen"/>verty, upon perſons convicted of being preſent at the ſame.</p>
+            <p n="4">4. That if any Conſtable, <hi>&amp;c.</hi> knowing, or being in<g ref="char:EOLhyphen"/>formed of ſuch Meetings within his Precinct, ſhall not inform a Juſtice of Peace, or chief Magiſtrate, <hi>&amp;c.</hi> but they or others called in their aid, ſhall wilfully omit their Duty, and being convicted thereof, they ſhall for<g ref="char:EOLhyphen"/>feit Five Pound. and the Juſtice of Peace and chief Ma<g ref="char:EOLhyphen"/>giſtrate, <hi>&amp;c.</hi> omitting their Duty, ſhall forfeit one Hun<g ref="char:EOLhyphen"/>dred Pound. Now for what end are theſe penalties im<g ref="char:EOLhyphen"/>poſed? Why the preamble of the Law will tell you, That it is, <hi>For providing Remedy againſt the growing and dangerous practices of Seditious Sectaries, and other diſloy<g ref="char:EOLhyphen"/>al perſons, who under pretence of tender Conſciences, have, or may at their Meetings contrive Inſurrections, as late ex<g ref="char:EOLhyphen"/>perience hath ſhewed.</hi>
+            </p>
+            <p>
+               <pb n="28" facs="tcp:95594:16"/>Now, Reader, if this very laſt Statute be put in due execution, I ſhould think our Sectaries would not have long, Pocket Courage enough to frequent Conventicles; and if they themſelves would but conſider, and weigh the preambles of the Laws and Canons before mention<g ref="char:EOLhyphen"/>ed, they would pronounce themſelves <hi>Guilty</hi> of the greateſt folly and Impudence in the World, to be found at ſuch unlawful Meetings. Well, I have no more to ſay to our Sectaries not only to deſire them to read theſe following Lines, ſpoken by a moſt excellent<note n="(a)" place="margin">
+                  <hi>Doctor La<g ref="char:EOLhyphen"/>ney</hi> late Lord Biſhop of <hi>Ely,</hi> on 1. <hi>Theſſ.</hi> 4.11.</note> Prelate of our Church in a Sermon Preached before his Maje<g ref="char:EOLhyphen"/>ſty at <hi>White-Hall,</hi> 12. <hi>Martii</hi> 1664.</p>
+            <p>
+               <hi>A Man</hi> (ſaies he) <hi>may go far in Religion, without trou<g ref="char:EOLhyphen"/>bling any; and if then they fall into ſome Error, or Misbe<g ref="char:EOLhyphen"/>lief in Religion, they ought not to be ſeverely handled; but when they betake themſelves to a Sect, that alters the caſe, it will then be Compaſſion miſtaken. A Locuſt alone is no ſuch perilous Beaſt to be fear'd or regarded by any; but when they come in ſhoals and ſwarms, and cover the Face of the Earth, they are a plague to the Country where they light. So to look upon a Sectary ſingle, who out of ſimpli<g ref="char:EOLhyphen"/>city and good meaning, follows his Conſcience, our Hearts ſhould be every whit as tender for them as their Conſciences are; But if we look upon them in Company, they are as ill and dangerous as the Company they are found in; and the dan<g ref="char:EOLhyphen"/>ger of all popular Meetings and Aſſociations to a State, makes it the proper buſineſs of a King and his Miniſters to look to it, and to provide againſt it; wherein the care hath been taken, deſerves a juſt Commendation.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:95594:16"/>
+            <head>BOOKS Printed for, and are to be Sold by <hi>John Walthoe</hi> at the <hi>Black-Lyon</hi> in <hi>Chancery-Lane,</hi> overagainſt <hi>Lincolns-Inn.</hi>
+            </head>
+            <list>
+               <item>AN Hiſtorical Account of the late great Froſt, in which are diſcovered, in ſe<g ref="char:EOLhyphen"/>veral Comical Relations, the various Hu<g ref="char:EOLhyphen"/>mours, Loves, Cheats, and Intreagues of the Town, as the ſame were managed upon the River of <hi>Thames,</hi> during that Seaſon: In Twelves, price 1 <hi>s.</hi>
+               </item>
+               <item>
+                  <hi>The Kings Prerogative,</hi> and the <hi>Subjects Pri<g ref="char:EOLhyphen"/>viledges Aſſerted,</hi> according to the Laws of <hi>England:</hi> Together with <hi>Obſervations</hi> on the Laws and Government of moſt of the Kingdoms and States of the Univerſe; by <hi>J. N.</hi> in large <hi>Octavo:</hi> price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+               <item>The <hi>Religious Cavalier.</hi> Done out of <hi>French:</hi> By <hi>Gideon Pierrevile</hi> Gent. price 1 <hi>s.</hi>
+               </item>
+               <item>
+                  <hi>Eve Revived:</hi> Or, The <hi>Fair One Stark-Naked.</hi> A Novell.</item>
+               <item>
+                  <hi>The Priviledge of Cuckolds:</hi> Or the <hi>Cure of Jealouſie.</hi> A work neceſſary not only for thoſe who are ſo, but thoſe that may be ſo. In <hi>Twelves:</hi> price 1 <hi>s.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
